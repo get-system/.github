@@ -113,28 +113,38 @@ Wir entwickeln **individuelle Softwarelösungen**, betreuen **IT-Infrastrukturen
 > ⚠️ Die meisten unserer Repositories sind **privat**, da wir kundenspezifische Lösungen entwickeln.
 > Hier ein Überblick über einige unserer Projekte:
 
+### 🌐 Webpräsenzen & Webseiten
+
 | Projekt | Beschreibung | Bereich |
 |---------|-------------|---------|
-| 🔧 **AutoRepCheck** | Automatisierte Prüf- und Berichtssysteme für KFZ-Betriebe | Automotive / Software |
+| 🔧 **AutoRepCheck** | Webseite für das Prüfen von Kostenvoranschlägen | Automotive / Web |
+| ☁️ **CloudWheel** | Webseite für einen Reifenservice | Automotive / Web |
+| 🛞 **WheelManagement** | Webseite für das Verwaltungssystem für Rad- & Reifenservices | Automotive / Web |
+| 🔄 **CoreCycle** | Ankauf von Computerhardware | Handel / Web |
+| 🏗️ **Asphatec** | Webpräsenz für Asphalttechnik | Bauwesen / Web |
+| 🎮 **GamingHive** | Gaming-Community-Webpräsenz | Gaming / Web |
+| 💇 **Mastercut-Neuwied** | Webpräsenz für Friseursalon | Dienstleistung / Web |
+| 🥁 **ChrizzlyDrumtech** | Webseite für Drumtech | Musik / Web |
+| 🌐 **DomainSale** | Domain-Verkaufslandingpage | E-Commerce / Web |
+| 🛠️ **GET-IT-Service** | Webpräsenz für IT-Service | IT-Service / Web |
+| 🛠️ **GET-Development** | Webpräsenz für Entwicklung | Entwicklung / Web |
+
+### 💻 Branchensoftware & Plattformen
+
+| Projekt | Beschreibung | Bereich |
+|---------|-------------|---------|
+| 🛞 **WheelManagement-System** | Verwaltungssystem für Rad- & Reifenservices | Branchensoftware |
 | 🔧 **AutoRepCheck-WordPress** | WordPress-Integration für AutoRepCheck | Automotive / Web |
-| ☁️ **CloudWheel** | Cloud-basiertes Felgen- & Reifen-Management | Cloud / Automotive |
-| 🛞 **WheelManagement** | Verwaltungssystem für Rad- & Reifenservices | Branchensoftware |
-| 🛞 **WheelManagement-System** | Erweitertes Verwaltungssystem für Radbetriebe | Branchensoftware |
-| 🤖 **AI-Post-Generator** | KI-gestützte Content-Erstellung für Social Media | KI / Marketing |
-| 🚗 **KFZ-Netzwerk** | Netzwerkplattform für Kfz-Betriebe | Automotive / Plattform |
+| 🤖 **AI-Post-Generator** | KI-gestützte Content-Erstellung für Wordpress Beiträge | KI / Marketing |
 | 🐺 **WolfLab-Dashboard** | Dashboard-Lösung für Datenvisualisierung | Dashboard / Analytics |
-| 🔄 **CoreCycle** | Zyklisches Prozessmanagement-System | Prozessoptimierung |
-| 🏗️ **Asphatec** | Digitale Lösung für Asphalt- & Bautechnik | Bauwesen |
-| 🎮 **GamingHive** | Gaming-Community-Plattform | Web / Gaming |
-| 💇 **Mastercut-Neuwied** | Webpräsenz für Friseursalon | Webentwicklung |
-| 🥁 **chrizzlydrumtech** | Webseite für Schlagzeugtechnik | Webentwicklung |
-| 🌐 **DomainSale** | Domain-Verkaufsplattform | Web / E-Commerce |
-| 🔬 **TechXP** | Technologie-Experimentierplattform | R&D |
-| 🛠️ **GET-IT-Service** | Internes IT-Service-Management | IT-Service |
-| 🛠️ **GET-Development** | Entwicklungsumgebung & Tools | DevOps |
 | 📋 **GET-Development-PerfexCRM** | PerfexCRM Anpassungen & Module | CRM / Entwicklung |
-| 💾 **hardwarecore** | Hardware-Management & Inventarisierung | IT-Infrastruktur |
-| 🎯 **Prompts** | KI-Prompt-Sammlung & Templates | KI / Produktivität |
+| 💾 **HardwareCore** | Vergleichsseite für Hardwarepreise | Preisvergleich / Web |
+
+---
+
+## 📊 GitHub Aktivität
+
+<div align="center">
 
 ---
 
