@@ -139,5 +139,45 @@ Wir entwickeln **individuelle Softwarelösungen**, betreuen **IT-Infrastrukturen
 ---
 
 ## 📊 GitHub Aktivität
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 📦 24+ Repositories | 🔒 Privat & 🔓 Öffentlich | 🚀 Aktive Entwicklung
+
+
+</div>
+
+---
+
+## 🏢 Über GET-System
+
+<div align="center">
+
+| | |
+|---|---|
+| 🏠 **Firmensitz** | Neuwied, Rheinland-Pfalz, Deutschland |
+| 📅 **Erfahrung** | Über 10 Jahre in der IT-Branche |
+| 🎯 **Fokus** | Mittelstand & Handwerk |
+| 👥 **Betreuung** | Persönlich & individuell |
+| 🆘 **Support** | 24/7 Notfall-Erreichbarkeit |
+| 🌐 **Website** | [get-system.de](https://get-system.de) |
+
+</div>
+
+---
+
+## 📬 Kontakt
+
+<div align="center">
+
+**Interesse an einer Zusammenarbeit?**
+Wir freuen uns auf Ihre Anfrage!
+
+[![Website](https://img.shields.io/badge/Website-get--system.de-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://get-system.de)
+[![E-Mail](https://img.shields.io/badge/E--Mail-info@get--system.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@get-system.de)
+[![Telefon](https://img.shields.io/badge/Anrufen-02631_9787561-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+4926319787561)
+
+---
+
+<sub>© 2026 GET-System IT Solutions · Neuwied, Deutschland · Alle Rechte vorbehalten</sub>
+
+</div>
 
 <div align="center">
