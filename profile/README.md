@@ -146,15 +146,10 @@ Wir entwickeln **individuelle Softwarelösungen**, betreuen **IT-Infrastrukturen
 
 <div align="center">
 
----
-
-## 📊 GitHub Aktivität
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 📦 24+ Repositories | 🔒 Privat & 🔓 Öffentlich | 🚀 Aktive Entwicklung
-
-
-</div>
-
----
+```
+  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+  📦 24+ Repositories  |  🔒 Privat & 🔓 Öffentlich  |  🚀 Aktive Entwicklung
+```
 
 ## 🏢 Über GET-System
 
