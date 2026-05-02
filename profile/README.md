@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖥️ GET-System IT Solutions
+# 🖥️ Scherbarth Solutions
 
 ### IT-Systemhaus & Softwareentwicklung aus Neuwied
 
